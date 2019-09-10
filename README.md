@@ -4,11 +4,9 @@ A GitHub App built with probot that celebrates new user activity within your rep
 
 A GitHub App built with probot that celebrates new user activity within your repository.
 
-FEATURES PLACEHOLDER
-
-- commit changes
-- merge
-- pull request
+- Create a new issue
+- Open a new pull request
+- Merge their first pull request
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
