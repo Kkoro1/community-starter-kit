@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+https://github.com/behaviorbot/welcome
+
+https://github.com/behaviorbot/new-issue-welcome
