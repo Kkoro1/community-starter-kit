@@ -2,11 +2,13 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+////
 
 FEATURES PLACEHOLDER
 
-## Getting started
+- commit changes
+- merge
+- pull request
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
